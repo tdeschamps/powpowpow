@@ -1,7 +1,7 @@
 class PowPowPow
     def self.call
-        TWILIO_API_KEY = 'AC598svg1a56885638f660652ed4810324'
-        TWILIO_AUTH_TOKEN = 'ce2764ad21d390367H018828cLSO2b0ac'
+        TWILIO_CLIENT_SECRET = 'AC9242e7485ab1940fd303fc3c83b7d7f8'
+        TWILIO_CLEINT_ID = 'AC8401e7485ab1940fd303fc3c83b7d7f8'
         'Hello'
     end
 end
