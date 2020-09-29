@@ -1,7 +1,6 @@
 class PowPowPow
-    def self.call
-        TWILIO_CLIENT_SECRET = 'AC9242e7485ab1940fd303fc3c83b7d7f8'
-        TWILIO_CLIENT_ID = 'AC8401e7485ab1940fd303fc3c83b7d7f8'
-        'Hello'
-    end
+  def self.call
+    slack_token = 'xoxb-783293206764-FGqsdMF8t18v6N7Oq4i79vs1'
+    MyGreatBitcoinMiner.new(token: slack_token)
+  end
 end
