@@ -1,5 +1,5 @@
 class PowPowPow
     def self.call
-        'ZWxtZXhibGFuY2hldXJhbnRpY2FyaWVzCg=='
+        'cmFvdWx0Y2VzdHZyYWltZW50bGVwbHVzZm9ydGNvbnRyZWxhbWF2aWNvdQo='
     end
 end
